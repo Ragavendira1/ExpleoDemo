@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this is pull request
-=======
 This is test
->>>>>>> master
+this is third file that needs to be merged with master branch
